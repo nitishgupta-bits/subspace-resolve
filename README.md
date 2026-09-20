@@ -29,7 +29,7 @@ The notebook creates the CSV file and the figure automatically.
 
 ## Verification
 
-The notebook was executed and compared with reference calculation.
+The notebook was executed, and its outputs were compared with an independently evaluated reference calculation
 
 - Maximum difference in the exact near-zero energies for `N = 8, 10, 12, 14`: `5.0e-16`
 - Maximum difference in the reconstructed energies for `N = 8, 10, 12, 14`: `1.1e-16`
